@@ -13,7 +13,7 @@
 
 ### 💻 About Me
 
-* 🎯 **Current Focus:** Crafting applications with **React.js** and **Next.js**.
+* 🎯 **Current Focus:** Crafting web applications with **React.js**, **Next.js**, **Node.js**, **Prisma** and **PostgreSQL**.
 * 📚 **Learning Next:** Mastering **Cloud Solutions (AWS/GCP)** and **DevOps**.
 
 <br>
